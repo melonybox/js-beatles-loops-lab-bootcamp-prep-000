@@ -2,7 +2,7 @@
 
 function theBeatlesPlay (musicians, instruments) {
   var array = []
-  for (musicians.length - musicians.length; ) {
+  for (i = musicians.length - musicians.length; ) {
     
   }
 }
